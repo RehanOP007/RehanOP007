@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rehan Peter</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehanop007&label=Profile%20views&color=0e75b6&style=flat" alt="rehanop007" /> </p>
-
 🎓 I'm an undergraduate student at SLIIT, specializing in **Information Technology** with a growing passion for **DevOps**, **Cloud Computing**, and **Full-Stack Development**.
 ---
 
@@ -12,8 +10,25 @@
 - 📦 Currently working on improving my skills in **automation**, **CI/CD pipelines**, and **infrastructure as code**.
 - 🧠 Always learning something new — from cloud deployment to system architecture.
 
+
 ---
 
+## 🔧 Tech Stack
+
+**Languages**  
+`Java` `JavaScript` `SQL` `Python` (learning)  
+
+**Tools & Frameworks**  
+`Git` `Docker` `VS Code` `React` `Node.js` `MongoDB` `MySQL` `Firebase`
+
+**Currently Exploring**  
+`AWS` `CI/CD with Jenkins/GitHub Actions` `Kubernetes` `Terraform`
+
+---
+
+🚀 *Open to internship opportunities in DevOps, Cloud, or Software Engineering!*
+
+---
 - 📫 How to reach me **omindupeter@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

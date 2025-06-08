@@ -8,7 +8,7 @@
 - 💻 Currently exploring **DevOps tools** like Docker, GitHub Actions, Linux, and cloud platforms (AWS).
 - 🌐 Skilled in **frontend and backend development** using technologies like HTML, CSS, JavaScript, Node.js, and React.
 - 📦 Currently working on improving my skills in **automation**, **CI/CD pipelines**, and **infrastructure as code**.
-- 🧠 Always learning something new — from cloud deployment to system architecture.
+- 🧠 Always learning something new from cloud deployment to system architecture.
 
 
 ---
@@ -16,20 +16,20 @@
 ## 🔧 Tech Stack
 
 **Languages**  
-`Java` `JavaScript` `SQL` `Python` (learning)  
+`Java` `JavaScript` `SQL` `Python`  
 
 **Tools & Frameworks**  
-`Git` `Docker` `VS Code` `React` `Node.js` `MongoDB` `MySQL` `Firebase`
+`Git` `Docker` (learning) `VS Code` `React` `Node.js` `MongoDB` `MySQL`
 
 **Currently Exploring**  
-`AWS` `CI/CD with Jenkins/GitHub Actions` `Kubernetes` `Terraform`
+`AWS` `CI/CD with Jenkins/GitHub Actions` `Kubernetes`
 
 ---
 
 🚀 *Open to internship opportunities in DevOps, Cloud, or Software Engineering!*
 
 ---
-- 📫 How to reach me **omindupeter@gmail.com**
+📫 How to reach me **omindupeter@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
